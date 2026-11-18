@@ -1,0 +1,4 @@
+action_id,protocol,destructive,hours,cost
+A1,P1,false,240,1200
+A2,P2,false,240,2000
+A3,P1,true,24,700

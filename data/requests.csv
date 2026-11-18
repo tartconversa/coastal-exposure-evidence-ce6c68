@@ -1,0 +1,10 @@
+request_id,environment,share,duration_days,risk_limit,cabinets,decision_by
+R1,coastal,0.6,240,0.05,20,2026-01-16
+R1,humid,0.3,240,0.05,20,2026-01-16
+R1,inland,0.1,240,0.05,20,2026-01-16
+R2,coastal,0.6,300,0.05,40,2026-01-16
+R2,humid,0.3,300,0.05,40,2026-01-16
+R2,inland,0.1,300,0.05,40,2026-01-16
+R3,coastal,0.6,360,0.05,60,2026-01-16
+R3,humid,0.3,360,0.05,60,2026-01-16
+R3,inland,0.1,360,0.05,60,2026-01-16
