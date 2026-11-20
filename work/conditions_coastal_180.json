@@ -1,0 +1,7 @@
+{
+  "cabinets": 20,
+  "min_subjects": 6,
+  "conditions": [
+    {"environment": "coastal", "share": 1.0, "duration_days": 180, "risk_limit": 0.20}
+  ]
+}

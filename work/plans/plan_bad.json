@@ -1,0 +1,9 @@
+{
+  "plan_id": "PLAN-Q1-BAD",
+  "placements": [
+    {"slot_id": "C2", "action_id": "A1", "specimen_id": "X002"},
+    {"slot_id": "C2", "action_id": "A2", "specimen_id": "X004"},
+    {"slot_id": "C2", "action_id": "A3", "specimen_id": "X061"},
+    {"slot_id": "C2", "action_id": "A1", "specimen_id": "X062"}
+  ]
+}

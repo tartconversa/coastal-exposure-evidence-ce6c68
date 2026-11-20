@@ -1,0 +1,9 @@
+{
+  "plan_id": "PLAN-Q1-A",
+  "placements": [
+    {"slot_id": "C2", "action_id": "A1", "specimen_id": "X002", "purpose": {"target": "D3-P1 延伸补证"}},
+    {"slot_id": "C2", "action_id": "A1", "specimen_id": "X008", "purpose": {"target": "D3-P1 延伸补证"}},
+    {"slot_id": "C4", "action_id": "A3", "specimen_id": "X018", "purpose": {"target": "D1-P1 破坏性拆检"}},
+    {"slot_id": "C1", "action_id": "A2", "specimen_id": "X003", "purpose": {"target": "D1-P2 延伸补证"}}
+  ]
+}

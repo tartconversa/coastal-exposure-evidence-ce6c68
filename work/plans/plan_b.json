@@ -1,0 +1,7 @@
+{
+  "plan_id": "PLAN-Q1-B",
+  "placements": [
+    {"slot_id": "C2", "action_id": "A1", "specimen_id": "X002", "purpose": {"target": "销售请求 R2 占用"}},
+    {"slot_id": "C4", "action_id": "A1", "specimen_id": "X014", "purpose": {"target": "D3-P1 探索"}}
+  ]
+}

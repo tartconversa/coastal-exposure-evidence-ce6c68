@@ -10,3 +10,6 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+# 运行时产物：承诺台账与分析落盘输出不入库（示例输入 work/plans、work/conditions* 保留）
+work/ledger/
+work/runs/

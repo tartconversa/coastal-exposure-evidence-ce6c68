@@ -1,0 +1,6 @@
+{
+  "cabinets": 20,
+  "conditions": [
+    {"environment": "coastal", "share": 1.0, "duration_days": 180, "risk_limit": 0.05}
+  ]
+}

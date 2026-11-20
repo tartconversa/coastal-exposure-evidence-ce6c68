@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+"""命令行包装入口，配合隔离模式使用：
+
+    python3 -I seal run --data <资料目录> ...
+
+脚本所在目录会自动进入 sys.path，且不读取 PYTHONPATH/用户站点包，
+资料目录仅通过 --data 参数传入，避免数据目录中的同名模块被导入。
+"""
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from sealpack.cli import main  # noqa: E402
+
+if __name__ == "__main__":
+    raise SystemExit(main())
